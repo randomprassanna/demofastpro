@@ -2,7 +2,7 @@ import torch
 
 START_TRAIN_AT_IMG_SIZE = 4
 dataset = "/content/prassanna_data"
-CHECKPOINT_GENERATOR = "M:\PRO gan project done\saved-loading models etc/generator.pth"
+CHECKPOINT_GENERATOR = "/home/prassanna/Desktop/fastapi/saved-loading models etc/generator.pth"
 CHECKPOINT_CRITIC = "/content/drive/MyDrive/proGAN/saved loading models etc/critic.pth"
 generation_folder = "/content/drive/MyDrive/proGAN/generated_images_latest"
 SAVE_MODEL = True
